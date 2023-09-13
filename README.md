@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Test with Actions
+# Test with Actions!
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
